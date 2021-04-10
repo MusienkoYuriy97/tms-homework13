@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Game>
+    <Moves>
+        <entry>
+            <key Player="Юрий"/>
+            <value>
+                <City>МИНСК</City>
+            </value>
+        </entry>
+        <entry>
+            <key Player="Андрей"/>
+            <value>
+                <City>КОБРИН</City>
+            </value>
+        </entry>
+    </Moves>
+</Game>
